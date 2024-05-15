@@ -20,3 +20,9 @@ Now, she is determined to preserve these projects as a record, whether for job a
     Creation Time: 2024/05/03
 
     Description: For cross platform purpose, so start learning flutter.
+
+- **todo_app**
+
+    Creation Time: 2024/05/12
+
+    Description: Follow the [video](https://www.youtube.com/watch?v=TclK5gNM_PM) to practice app development.
