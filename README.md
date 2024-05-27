@@ -15,6 +15,18 @@ Now, she is determined to preserve these projects as a record, whether for job a
 
 (Sort by creation date from newest to oldest.)
 
+- **E-commerce_app**
+
+    Creation Time: 2024/05/27
+
+    Description: Following the video and I think it is advance of shop_app.
+
+- **shop_app**
+
+    Creation Time: 2024/05/24
+
+    Description: Trying to build an shop app following the video and little modify by myself.
+
 - **first_flutter_app**
 
     Creation Time: 2024/05/03
