@@ -15,6 +15,12 @@ Now, she is determined to preserve these projects as a record, whether for job a
 
 (Sort by creation date from newest to oldest.)
 
+- **bank**
+
+    Creation Time: 2024/06/01
+
+    Description: Practice Spring Boot and learn JUnit5 using kotlin
+
 - **E-commerce_app**
 
     Creation Time: 2024/05/27
