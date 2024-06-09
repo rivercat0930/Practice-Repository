@@ -15,11 +15,17 @@ Now, she is determined to preserve these projects as a record, whether for job a
 
 (Sort by creation date from newest to oldest.)
 
+- **flutter_web_practice**
+
+    Creation Time: 2024/06/06
+
+    Description: This practice is using flutter to build a web page.
+
 - **bank**
 
     Creation Time: 2024/06/01
 
-    Description: Practice Spring Boot and learn JUnit5 using kotlin
+    Description: Practice Spring Boot and learn JUnit5 using kotlin.
 
 - **E-commerce_app**
 
